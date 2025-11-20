@@ -79,7 +79,7 @@ BrightCraft/
 
 1. **Download or clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/BrightCraft.git
+   git clone https://github.com/soikot-shahriaar/BrightCraft.git
    ```
 
 2. **Navigate to the project directory**:
@@ -149,7 +149,7 @@ All images are from [Unsplash](https://unsplash.com) and should be replaced with
 
 **License for RiverTheme**
 
-[RiverTheme.com](https://RiverTheme.com) makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
+RiverTheme makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
 
 ---
 
